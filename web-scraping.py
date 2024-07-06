@@ -73,4 +73,3 @@ for link in university_links:
             if n in job_detail.lower():
                 my_search_list.append(link)
                 print(link)
-                
